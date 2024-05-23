@@ -11,19 +11,6 @@ DapperMySql is a lightweight and high-performance data access library for MySQL,
 - **Parameterized Queries**: Helps prevent SQL injection attacks by using parameterized queries.
 - **Async Support**: Fully supports asynchronous operations, making it suitable for modern, high-performance applications.
 
-## Installation
-
-To install DapperMySql, you can use the NuGet package manager. Run the following command in the Package Manager Console:
-
-```sh
-Install-Package DapperMySql
-```
-
-Or add the package to your `csproj` file:
-
-```xml
-<PackageReference Include="DapperMySql" Version="1.0.0" />
-```
 
 ## Usage
 
@@ -89,6 +76,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 Special thanks to the Dapper and MySQL communities for their continuous support and contributions to the ecosystem.
+
+## Author
+
+This project is maintained by [Hasanboevs]. You can find more about me and my other projects on my [personal website](https://hasanboevs.netlify.app).
 
 ---
 
